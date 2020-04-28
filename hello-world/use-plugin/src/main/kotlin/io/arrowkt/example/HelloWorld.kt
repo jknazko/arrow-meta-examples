@@ -5,5 +5,5 @@ package io.arrowkt.example
 fun helloWorld(): Unit = TODO()
 
 fun main() {
-  helloWorld()
+  arrow.helloWorld_Generated().sayHi()
 }
